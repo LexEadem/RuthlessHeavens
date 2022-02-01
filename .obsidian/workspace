@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/Core/Dao Powers & Progression.md",
-            "mode": "source",
+            "file": "System/Paths/Paths.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Core/Dao Powers & Progression.md",
+                "file": "System/Paths/Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Core/Dao Powers & Progression.md",
+                "file": "System/Paths/Paths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "ce1a9f3fe424c0fe",
   "lastOpenFiles": [
+    "System/Paths/Paths.md",
+    "System/Paths/Path of Flames.md",
+    "System/Paths/Path of Boundless Might.md",
+    "System/Paths/Custom Path Template.md",
     "System/Core/Dao Powers & Progression.md",
     "System/Core/Cultivation Accidents.md",
     "System/Core/Cultivation.md",
     "README.md",
-    "Path of Flames.md",
-    "Path of Boundless Might.md",
     "System/Stages/Stages of Cultivation.md",
-    "System/Stages/Silver.md",
-    "System/Stages/Platinum.md",
-    "System/Stages/Mithril.md"
+    "System/Stages/Silver.md"
   ]
 }
