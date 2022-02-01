@@ -79,6 +79,29 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "4110b45b45002f22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f57f7746bc48069b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -90,14 +113,14 @@
   "active": "ce1a9f3fe424c0fe",
   "lastOpenFiles": [
     "README.md",
-    "System/Core/Dao Powers & Progression.md",
-    "System/Core/Cultivation Accidents.md",
-    "System/Core/Cultivation.md",
-    "System/Core/Shards and Cores.md",
-    "System/Paths/Paths.md",
-    "System/Core/Experience Points.md",
-    "System/Core/Essence Regeneration.md",
-    "System/Paths/Custom Path Template.md",
-    "System/Core/Essence.md"
+    "Path of Flames.md",
+    "Path of Boundless Might.md",
+    "System/Stages/Stages of Cultivation.md",
+    "System/Stages/Silver.md",
+    "System/Stages/Platinum.md",
+    "System/Stages/Mithril.md",
+    "System/Stages/Immortal.md",
+    "System/Stages/Gold.md",
+    "System/Stages/Foundation.md"
   ]
 }

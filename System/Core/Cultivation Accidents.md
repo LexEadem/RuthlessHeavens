@@ -4,7 +4,7 @@ Sometimes things go wrong, usually because someone got greedy and attempted some
 
 You attempted to cultivate from a source that was too far beyond your understanding. Consult this chart, to determine how many rolls you must make against the Penalty for Failure chart.
 
-*Note that you cannot gain [[Essence]] from a source more than 1 rank below your own.
+*Note that you cannot gain [Essence](Essence.md) from a source more than 1 rank below your own.
 
 |  | F | E | D | C | B|A|S|
 | --- | --- |--- |--- |--- |--- |--- |--- |

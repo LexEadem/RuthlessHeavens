@@ -1,4 +1,4 @@
-Total [[Essence]] Regained on a long rest.
+Total [Essence](Essence.md) Regained on a long rest.
 
 |Environment Grade| Essence Regained on a Long Rest| 
 |---------|---------|
@@ -10,6 +10,6 @@ Total [[Essence]] Regained on a long rest.
 | A | 14|
 | S | 20 |
 
-By expending a [[Shards and Cores|Shard]] of a higher grade, you temporarily increase the grade of a 40ft circle that grade for 24 hours.
+By expending a [Shard](Shards%20and%20Cores%7CShard.md) of a higher grade, you temporarily increase the grade of a 40ft circle that grade for 24 hours.
 
 #essence

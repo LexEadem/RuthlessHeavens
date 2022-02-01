@@ -13,7 +13,7 @@ If you've never explored the myriad worlds of cultivation novels, here are some 
 
 
 ## Getting Started
-For your first time browsing around, start from the [[Dao Powers & Progression]] page.
+For your first time browsing around, start from the [Dao Powers & Progression](System/Core/Dao%20Powers%20&%20Progression.md) page.
 
 
 ## Planned Development

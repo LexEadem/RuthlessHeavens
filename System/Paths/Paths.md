@@ -4,12 +4,12 @@ These are some examples of the paths of those who came before.
 
 
 ## Prebuilt Paths
-![[Path of Flames]]
+![Path of Flames](Path%20of%20Flames.md)
 
-![[Path of Boundless Might]]
+![Path of Boundless Might](Path%20of%20Boundless%20Might.md)
 
 ## Custom Paths
-![[Custom Path Template]]  
+![Custom Path Template](Custom%20Path%20Template.md)  
 
 
 #paths 
