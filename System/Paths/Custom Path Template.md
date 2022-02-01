@@ -172,12 +172,10 @@ Blind/Tremorsense (120ft)
 Additional mana/spell slots (Enough for a 9th level spell)  
 An Additional Essence Ability is learned  
   
-  
-  
-  
-  
-  
-  
 
-  
-**
+
+
+#paths 
+#template
+#customPath
+#custom

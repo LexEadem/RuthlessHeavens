@@ -4,7 +4,7 @@ Sometimes things go wrong, usually because someone got greedy and attempted some
 
 You attempted to cultivate from a source that was too far beyond your understanding. Consult this chart, to determine how many rolls you must make against the Penalty for Failure chart.
 
-*Note that you cannot gain [[essence]] from a source more than 1 rank below your own.
+*Note that you cannot gain [[Essence]] from a source more than 1 rank below your own.
 
 |  | F | E | D | C | B|A|S|
 | --- | --- |--- |--- |--- |--- |--- |--- |
@@ -34,3 +34,11 @@ Outcomes are not applied until all rolls are complete unless otherwise specified
 |18|Tribulation brings Enlightenment. You gain a glimpse into the Dao beyond your standing. Gain 10% increased experience and essence from all sources until you are one rank below the source of this attempt, this bonus applies to the current attempt.<br> No Penalty.|
 |19|The heavens take notice of you and grant you a boon, you may choose one of the following.<br> - The heavens remove one other result of this attempt (Except Dao Reformation or Broken Cultivation), and will change it at their whim. (DM will reroll a new outcome for that roll in secret. It must be different from what was rolled, but could be anything.)<br> - Gain an additional 50% experience from this cultivation attempt.<br> - Gain Tribulation brings Enlightenment (as above).<br> - The heavens grant you a vision of the Dao, with a suggestion for progressing on your path.|
 |20|Dao Reformation. Your pathways are fully overwhelmed, re-forged by the essence you are absorbing as a chaotic storm sweeps through you. You seize control of the storm and prevent it from destroying you, but your cultivation will be forever changed by the experience you have gone through. Your Dao changes to reflect more closely to the affinity of the source you absorbed. Work with your DM to determine your new Dao and how your abilities change.<br> You gain experience as normal from the attempt. All other rolls cease and all other outcomes are removed.|
+
+
+
+#cultivation
+#cultivationAccidents
+#accidents
+#priceOfAvarice
+#penalty

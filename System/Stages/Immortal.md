@@ -28,4 +28,6 @@ As First Dao, except imitating a spell of up to 9th level.
 
 For Example, a cultivator on the Path of Flames may be able to replicate the effect of Meteor Swarm
 
-  
+
+
+  #cultivation

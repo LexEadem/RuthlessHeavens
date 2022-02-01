@@ -10,3 +10,6 @@ These are some examples of the paths of those who came before.
 
 ## Custom Paths
 ![[Custom Path Template]]  
+
+
+#paths 

@@ -12,6 +12,9 @@ If you've never explored the myriad worlds of cultivation novels, here are some 
 | [Unsouled (Cradle)](https://www.willwight.com/books.html) | Will Wight | EN |
 
 
+## Getting Started
+For your first time browsing around, start from the [[Dao Powers & Progression]] page.
+
 
 ## Planned Development
 - [ ] Add Example Paths

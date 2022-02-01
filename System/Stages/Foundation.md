@@ -18,3 +18,5 @@ Cultivators can sense the essence in their immediate surroundings, including its
 Gain 100xp per year if maintaining regular mediation sessions of at least 1 hr per day in an F grade environment. More regular mediation or higher grade environments may raise this amount.  
   
 Essence may also be cultivated from highly dense physical manifestations, called Shards and Cores. You may cultivate from Cores and Shards no more than 1 rating below your own cultivation rank, as anything less will contain too many impurities to be useful to your cultivation. Using shards and cores from above your rank is possible, but very dangerous. Roll against the Cultivation Accident charts for the outcomes.
+
+#cultivation

@@ -24,3 +24,6 @@ Cost: 1 Essence
 As First Dao, except imitating a spell of up to 1st level.
 
 For Example, a cultivator on the Path of Flames may be able to replicate the effect of Burning Hands, or a Fire-typed variant of Magic Missile.
+
+
+#cultivation

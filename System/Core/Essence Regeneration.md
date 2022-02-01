@@ -10,4 +10,6 @@ Total [[Essence]] Regained on a long rest.
 | A | 14|
 | S | 20 |
 
-By expending a [[Shard]] of a higher grade, you temporarily increase the grade of a 40ft circle that grade for 24 hours.
+By expending a [[Shards and Cores|Shard]] of a higher grade, you temporarily increase the grade of a 40ft circle that grade for 24 hours.
+
+#essence

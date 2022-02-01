@@ -4,8 +4,10 @@ There are two aspects to taking in [[Essence]], the first is as Experience gaine
   
 The second aspect of Essence is it’s manifestations, more commonly known as “Essence Powers” or “Essence Abilities”. While Passive Essence Powers are always active, without the expenditure of Essence required, Active Essence powers do have their limitations.  
   
-Your [[Maximum Essence]] is Equal to your Character Level. You recover essence after a long rest based on the Grade of your environment. You can sacrifice a [[Shards and Cores|Shard]] of a higher grade at the beginning of your rest to increase the effective grade of the area for yourself to the grade of the shard. 
+Your Maximum Essence Points are Equal to your Character Level. You recover essence after a long rest based on the Grade of your environment. You can sacrifice a [[Shards and Cores|Shard]] of a higher grade at the beginning of your rest to increase the effective grade of the area for yourself to the grade of the shard. 
 
 *IE: Sacrifice a Grade A Essence Shard to treat your rest as though it were in a Grade A environment.*  
 
 ![[Essence Regeneration]]
+
+#essence

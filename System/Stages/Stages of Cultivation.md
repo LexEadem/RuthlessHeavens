@@ -9,3 +9,5 @@ Stages of Advancement in Mortal Cultivation
 | [[Platinum]] | Spirit Sealing | 11-14 | B |
 | [[Mithril]] | Dao Seeking | 15-19 | A |
 | [[Immortal]] | Immortal | 20+ | S |
+
+#cultivation

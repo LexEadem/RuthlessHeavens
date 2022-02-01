@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:System/Core",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:System/Setting",
+      "color": {
+        "a": 1,
+        "rgb": 12419855
+      }
+    },
+    {
+      "query": "path:System/Stages",
+      "color": {
+        "a": 1,
+        "rgb": 1719976
+      }
+    },
+    {
+      "query": "path:System/Paths",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.5,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.658119658119658,
   "linkDistance": 239,
-  "scale": 0.5087618855792599,
+  "scale": 0.5087618855792605,
   "close": false
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6ca7448113c1e0",
+        "id": "ce1a9f3fe424c0fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#prices",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a6ca7448113c1e0",
+  "active": "ce1a9f3fe424c0fe",
   "lastOpenFiles": [
     "README.md",
-    "System/Heavens.md",
-    "System/Essence Regeneration.md",
-    "System/Dao Powers & Progression.md",
-    "System/Immortal.md",
-    "System/Experience Points.md",
-    "System/Essence.md",
-    "System/Stages/Stages of Cultivation.md",
-    "System/Mithril.md",
-    "System/Cultivation Accidents.md"
+    "System/Core/Dao Powers & Progression.md",
+    "System/Core/Cultivation Accidents.md",
+    "System/Core/Cultivation.md",
+    "System/Core/Shards and Cores.md",
+    "System/Paths/Paths.md",
+    "System/Core/Experience Points.md",
+    "System/Core/Essence Regeneration.md",
+    "System/Paths/Custom Path Template.md",
+    "System/Core/Essence.md"
   ]
 }

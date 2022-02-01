@@ -23,3 +23,5 @@ Cost: 3 Essence
 As First Dao, except imitating a spell of up to 5th level.
 
 For Example, a cultivator on the Path of Flames may be able to replicate the effect of Flame Strike
+
+#cultivation

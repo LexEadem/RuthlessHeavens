@@ -23,3 +23,6 @@ Cost: 5 Essence
 As First Dao, except imitating a spell of up to 7th level.
 
 For Example, a cultivator on the Path of Flames may be able to replicate the effect of Fire Storm
+
+
+#cultivation
